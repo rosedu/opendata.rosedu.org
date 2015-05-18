@@ -1,0 +1,5 @@
+title: "Open Data Summer School"
+defaults:
+  - scope: {path: ""}
+    values:
+      layout: "page"
