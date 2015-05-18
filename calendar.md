@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Calendar
+navbar: 1
 ---
 până pe 1 iunie: [înscrieri](/register.html)
 
