@@ -8,3 +8,5 @@ title: Open Data Summer School
 </div>
 
 Se întâmplă ODSS. În perioada **23 iunie - 1 iulie**. O să fie fain.
+
+[înscrieri](/register.html)
