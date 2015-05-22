@@ -15,3 +15,9 @@ title: Open Data Summer School
 
 
 ## Prezentări
+* open data, copyright, licențe (Bogdan Manolea)
+* python & data wrangling libraries (Taygun Agiali)
+* de unde vin datele, ce să ne așteptăm de la ele (Codrina Ilie)
+* information retrieval - scraping, cleaning (TBD)
+* cum punem datele într-o formă vizuală (Cosmin Pojoranu)
+* vizualizări (TBD)
