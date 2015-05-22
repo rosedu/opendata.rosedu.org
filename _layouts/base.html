@@ -6,24 +6,6 @@
 
 <body>
 
-<nav class="navbar navbar-default">
-  <div class="container">
-    <div class="navbar-header">
-      <a class="navbar-brand" href="/">{{ site.title }}</a>
-    </div>
-    <ul class="nav navbar-nav">
-      <!-- {{ page.url }} -->
-      {% for item in site.pages | sort 'navbar' %}
-        {% if item.navbar %}
-          <li {% if item.url == page.url %}class="active"{% endif %}>
-            <a href="{{ item.url }}">{{ item.title }}</a>
-          </li>
-        {% endif %}
-      {% endfor %}
-    </ul>
-  </div>
-</nav>
-
 <div class="container">
   {{ content }}
 </div>
