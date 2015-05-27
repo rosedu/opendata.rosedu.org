@@ -7,6 +7,17 @@ title: Open Data Summer School
   <h1>Open Data Summer School</h1>
 </div>
 
+Statul funcționează din banii plătiți de noi, sub formă de impozite.
+[Open Data](https://en.wikipedia.org/wiki/Open_data) înseamnă să avem
+acces la datele produse cu bani publici. Cu datele astea putem face
+aplicații utile (de exemplu orientare prin transportul în comun) și
+putem mări transparența în administrația publică (bugetele diverselor
+instituții, contracte cu furnizori, posturi scoase la concurs, etc).
+
+În această școală de vară vei învăța despre Open Data, seturi de date
+disponibile, cum le poți prelua și prelucra, ce poți obține din ele, și
+cum poți prezenta rezultatul într-o formă mișto.
+
 
 ## Calendar
 * până pe 31 mai: înscrieri prin [Stagii pe Bune](http://www.stagiipebune.ro/stagii.html&id=2216&category=103)
