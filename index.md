@@ -1,6 +1,5 @@
 ---
 layout: base
-title: Open Data Summer School
 ---
 
 <div class="jumbotron">
