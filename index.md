@@ -1,10 +1,6 @@
 ---
-layout: base
+layout: home
 ---
-
-<div class="jumbotron">
-  <h1>Open Data Summer School</h1>
-</div>
 
 Statul funcționează din banii plătiți de noi, sub formă de impozite.
 [Open Data](https://en.wikipedia.org/wiki/Open_data) înseamnă să avem
