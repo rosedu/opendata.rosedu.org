@@ -19,7 +19,7 @@ cum poți prezenta rezultatul într-o formă mișto.
 
 
 ## Calendar
-* până pe 31 mai: înscrieri prin [Stagii pe Bune](http://www.stagiipebune.ro/stagii.html&id=2216&category=103)
+* până pe 5 iunie: înscrieri prin [Stagii pe Bune](http://www.stagiipebune.ro/stagii.html&id=2216&category=103)
 * 23, 24, 25 iunie: prezentări
 * 29, 30, 1 iulie: hackathon
 
