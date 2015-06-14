@@ -27,3 +27,17 @@ cum poți prezenta rezultatul într-o formă mișto.
 * information retrieval - scraping, cleaning (TBD)
 * cum punem datele într-o formă vizuală (Cosmin Pojoranu)
 * vizualizări (TBD)
+
+
+## Studenți acceptați
+* Doru Blânzeanu
+* Ioana Buzescu
+* Mihai Chirculescu
+* Vali Cioacă
+* Florin Iancu
+* Cristian Marculescu
+* Andrei Mardale
+* Bogdan Nadolu
+* Alex Nițu
+* Ioana Păun
+* Lucian Perju
