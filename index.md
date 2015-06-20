@@ -16,7 +16,19 @@ cum poți prezenta rezultatul într-o formă mișto.
 
 ## Calendar
 * până pe 5 iunie: înscrieri prin [Stagii pe Bune](http://www.stagiipebune.ro/stagii.html&id=2216&category=103)
-* 23, 24, 25 iunie: prezentări
+* 23 iunie
+  * 10:00 Introducere în Python (Alex Palcuie)
+  * 13:00 lunch break
+  * 14:00 Open data, copyright, licențe (Bogdan Manolea)
+* 24 iunie
+  * 10:00 Information retrieval (Iulia Chiriac)
+  * 13:00 lunch break
+  * 14:00 Open Refine (Codrina Ilie)
+* 25 iunie
+  * 10:00 Cum construim vizualizări (Alex Morega)
+  * 13:00 lunch break
+  * 14:00 Cum gândim vizualizările (Cosmin Pojoranu)
+  * 15:00 Povești din lupta cu autoritățile (Elena Calistru)
 * 29, 30, 1 iulie: hackathon
 
 
