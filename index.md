@@ -19,7 +19,7 @@ cum poți prezenta rezultatul într-o formă mișto.
 * 23 iunie
   * 10:00 Introducere în Python (Alex Palcuie) ([repo](https://github.com/palcu/cdl-python-lab))
   * 13:00 lunch break
-  * 14:00 Open data, copyright, licențe (Bogdan Manolea)
+  * 14:00 Open data, copyright, licențe (Bogdan Manolea) ([slide-uri](media/slides-bogdan.pdf))
 * 24 iunie
   * 10:00 Information retrieval (Iulia Chiriac)
   * 13:00 lunch break
