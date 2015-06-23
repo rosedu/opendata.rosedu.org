@@ -17,7 +17,7 @@ cum poți prezenta rezultatul într-o formă mișto.
 ## Calendar
 * până pe 5 iunie: înscrieri prin [Stagii pe Bune](http://www.stagiipebune.ro/stagii.html&id=2216&category=103)
 * 23 iunie
-  * 10:00 Introducere în Python (Alex Palcuie)
+  * 10:00 Introducere în Python (Alex Palcuie) ([repo](https://github.com/palcu/cdl-python-lab))
   * 13:00 lunch break
   * 14:00 Open data, copyright, licențe (Bogdan Manolea)
 * 24 iunie
