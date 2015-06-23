@@ -29,6 +29,7 @@ cum poți prezenta rezultatul într-o formă mișto.
   * 13:00 lunch break
   * 14:00 Cum gândim vizualizările (Cosmin Pojoranu)
   * 15:00 Povești din lupta cu autoritățile (Elena Calistru)
+  * 16:00 data.gov.ro (Andrei Nicoară)
 * 29, 30, 1 iulie: hackathon
 
 
