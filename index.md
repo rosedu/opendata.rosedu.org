@@ -21,7 +21,7 @@ cum poți prezenta rezultatul într-o formă mișto.
   * 13:00 lunch break
   * 14:00 Open data, copyright, licențe (Bogdan Manolea) ([slide-uri](media/slides-bogdan.pdf))
 * 24 iunie
-  * 10:00 Information retrieval (Iulia Chiriac)
+  * 10:00 Information retrieval (Iulia Chiriac) ([repo](https://github.com/iuliachiriac/open-data-ss))
   * 13:00 lunch break
   * 14:00 Open Refine (Codrina Ilie)
 * 25 iunie
