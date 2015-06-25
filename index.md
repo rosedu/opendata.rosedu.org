@@ -25,7 +25,7 @@ cum poți prezenta rezultatul într-o formă mișto.
   * 13:00 lunch break
   * 14:00 Open Refine (Codrina Ilie)
 * 25 iunie
-  * 10:00 Cum construim vizualizări (Alex Morega)
+  * 10:00 Cum construim vizualizări (Alex Morega) ([slide-uri](media/slides-alexm.pdf), [repo](https://github.com/mgax/workshop-odss-vis))
   * 13:00 lunch break
   * 14:00 Cum gândim vizualizările (Cosmin Pojoranu)
   * 15:00 Povești din lupta cu autoritățile (Elena Calistru)
