@@ -13,6 +13,11 @@ instituții, contracte cu furnizori, posturi scoase la concurs, etc).
 disponibile, cum le poți prelua și prelucra, ce poți obține din ele, și
 cum poți prezenta rezultatul într-o formă mișto.
 
+## Proiecte Realizate
+* [Proiect 1](projects/bac-populatie) - Ioana Păun și Doru Blânzeanu
+* [Proiect 2](projects/fonduri-spitale) - Lucian Perju și Ioan Sendroiu
+* [Proiect 3](projects/muzee) - Andrei Mardale și Alex Nițu
+* [Proiect 4](projects/somaj-durata-viata) - Florin Iancu și Vali Cioacă
 
 ## Calendar
 * până pe 5 iunie: înscrieri prin [Stagii pe Bune](http://www.stagiipebune.ro/stagii.html&id=2216&category=103)
@@ -32,7 +37,6 @@ cum poți prezenta rezultatul într-o formă mișto.
   * 16:00 data.gov.ro (Andrei Nicoară)
 * 29, 30, 1 iulie: hackathon
 
-
 ## Studenți acceptați
 * Doru Blânzeanu
 * Ioana Buzescu
@@ -45,3 +49,4 @@ cum poți prezenta rezultatul într-o formă mișto.
 * Alex Nițu
 * Ioana Păun
 * Lucian Perju
+* Ioan Sendroiu
