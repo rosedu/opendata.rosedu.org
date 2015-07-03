@@ -14,10 +14,10 @@ disponibile, cum le poți prelua și prelucra, ce poți obține din ele, și
 cum poți prezenta rezultatul într-o formă mișto.
 
 ## Proiecte Realizate
-* [Proiect 1](projects/bac-populatie) - Ioana Păun și Doru Blânzeanu
-* [Proiect 2](projects/fonduri-spitale) - Lucian Perju și Ioan Sendroiu
-* [Proiect 3](projects/muzee) - Andrei Mardale și Alex Nițu
-* [Proiect 4](projects/somaj-durata-viata) - Florin Iancu și Vali Cioacă
+* [Proiect 1](http://rosedu.github.io/opendata-2015-projects/bac-populatie) - Ioana Păun și Doru Blânzeanu
+* [Proiect 2](http://rosedu.github.io/opendata-2015-projects/fonduri-spitale) - Lucian Perju și Ioan Sendroiu
+* [Proiect 3](http://rosedu.github.io/opendata-2015-projects/muzee) - Andrei Mardale și Alex Nițu
+* [Proiect 4](http://rosedu.github.io/opendata-2015-projects/somaj-durata-viata) - Florin Iancu și Vali Cioacă
 
 ## Calendar
 * până pe 5 iunie: înscrieri prin [Stagii pe Bune](http://www.stagiipebune.ro/stagii.html&id=2216&category=103)
