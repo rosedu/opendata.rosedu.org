@@ -19,6 +19,8 @@ cum poți prezenta rezultatul într-o formă mișto.
 * [Proiect 3](http://rosedu.github.io/opendata-2015-projects/muzee) - Andrei Mardale și Alex Nițu
 * [Proiect 4](http://rosedu.github.io/opendata-2015-projects/somaj-durata-viata) - Florin Iancu și Vali Cioacă
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/mw12m"><a href="//imgur.com/a/mw12m">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 ## Calendar
 * până pe 5 iunie: înscrieri prin [Stagii pe Bune](http://www.stagiipebune.ro/stagii.html&id=2216&category=103)
 * 23 iunie
